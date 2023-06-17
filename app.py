@@ -24,7 +24,7 @@ elif resposta == '2':
     usuario_digitado = input('Digite seu usuário: ')
     # Pedir senha
     senha_digitada = input('Digite sua senha: ')
-    # Verificar se usuário existe na lista
+    # Verificar se usuário existe na lista.
     
     # Verificar se a senha providenciada para o usuário é a mesma senha que está na nossa lista de senhas.
     
